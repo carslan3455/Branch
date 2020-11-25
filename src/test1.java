@@ -3,5 +3,7 @@ public class test1 {
 
         System.out.println("Ürünleri listele kismi yazildi");
         System.out.println("Sepete ekle kismi yapildi");
+        System.out.println("Sepete eklenen urunler denetlendi");
+
     }
 }
